@@ -20,34 +20,44 @@
 
 <div align="center">
 
-### languages i mess with
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+### languages i am working in 
+
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
 
 ### tools i use daily  
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma&theme=dark" />
+
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+<a href="https://atom-editor.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=atom&theme=dark" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
+<a href="https://www.autohotkey.com/" target="_blank"><img src="https://skillicons.dev/icons?i=autohotkey&theme=dark" /></a>
 
 ### learning rn
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+<a href="https://godotengine.org/" target="_blank"><img src="https://skillicons.dev/icons?i=godot&theme=dark" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
 
 </div>
 
 ---
 
 ## 💭 what i'm up to
-- 
--  learning new Languages
--  creating **web projects** that actually look clean
--  learning **system design** and **problem-solving**
--  experimenting with **AI tools** and workflow optimization
+
+- learning new Languages
+- creating **web projects** that actually look clean
+- learning **system design** and **problem-solving**
+- experimenting with **AI tools** and workflow optimization
 
 ---
 
 ## 🎮 when i'm not coding
 
 - vibing to music on [spotify](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)
--  working on [iw8mod](Discord.gg/demonware)
--  trying to touch grass occasionally
--  working on a side project
+- working on [iw8mod](https://Discord.gg/demonware)
+- trying to touch grass occasionally
+- working on a side project
 
 ---
 
