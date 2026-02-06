@@ -1,51 +1,59 @@
-# 👋 Yo, I'm AceAdz
+# 👋 Hi, I'm AceAdz
 
 ## 🧠 About Me
-I'm a **Computer Science student** interested in building things, automating workflows, and learning how systems actually work under the hood.  
-Currently focused on improving my skills and shipping projects.
+I’m a **Computer Science student** with a strong interest in software development, automation, and practical problem-solving.  
+I enjoy working on projects that improve efficiency, explore new technologies, and strengthen core CS fundamentals.
+
+My current focus is on building clean, maintainable code while expanding my knowledge across web technologies and automation workflows.
 
 ---
 
-## 💻 Programming Languages
+## 💻 Technical Skills
+
+### Programming Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python" />
+</p>
+
+### Development Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AceAdz&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceAdz&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🌐 Socials
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.tiktok.com/@aceadxm">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="40" style="fill:#000000"/>
+    <img src="https://skillicons.dev/icons?i=tiktok" />
   </a>
   <a href="https://x.com/AceAdz_">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" style="fill:#ffffff"/>
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.instagram.com/adxm.fr">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" style="fill:#E4405F"/>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" height="40" style="fill:#1DB954"/>
+    <img src="https://skillicons.dev/icons?i=spotify" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="40" style="fill:#5865F2"/>
+  <img src="https://skillicons.dev/icons?i=discord" />
 </p>
 
-
-<p align="center"><b>Discord:</b> <code>adzisace</code></p>
+<p align="center">
+  <b>Discord:</b> <code>adzisace</code>
+</p>
 
 ---
 
-## 🚀 Focus
-- Computer Science fundamentals  
-- Web development  
-- AI automation
+## 🚀 Current Focus
+- Strengthening **Computer Science fundamentals**
+- Web development (HTML, CSS, Python-based tooling)
+- Automation and AI-assisted workflows
+- Writing clean, readable, and maintainable code
+
+---
+
+## 📌 Goals
+- Build a strong project portfolio  
+- Contribute to open-source projects  
+- Continuously improve problem-solving and system design skills  
