@@ -30,13 +30,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 <a href="https://atom-editor.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=atom&theme=dark" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
-
-<!-- Lovable (custom icon) -->
-<a href="https://lovable.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/AceAdz/assets/main/lovable-icon.png" width="48" />
-</a>
-
-<!-- Supabase -->
 <a href="https://supabase.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" />
 </a>
