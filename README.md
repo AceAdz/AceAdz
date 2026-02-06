@@ -8,11 +8,12 @@
 
 </div>
 
-## 🧠 About Me
+---
 
-- CS student
-- focused on software development, automation, and systems thinking
-- constantly improving fundamentals and building practical projects
+## 🧠 About Me
+- CS student  
+- focused on software development, automation, and systems thinking  
+- constantly improving fundamentals and building practical projects  
 
 ---
 
@@ -20,21 +21,27 @@
 
 <div align="center">
 
-### languages i am working in 
-
+### languages i am working in  
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
 
 ### tools i use daily  
-
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 <a href="https://atom-editor.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=atom&theme=dark" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
-<a href="https://www.autohotkey.com/" target="_blank"><img src="https://skillicons.dev/icons?i=autohotkey&theme=dark" /></a>
 
-### learning rn
+<!-- Lovable (custom icon) -->
+<a href="https://lovable.dev" target="_blank">
+  <img src="https://raw.githubusercontent.com/AceAdz/assets/main/lovable-icon.png" width="48" />
+</a>
 
+<!-- Supabase -->
+<a href="https://supabase.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" />
+</a>
+
+### learning rn  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
 <a href="https://godotengine.org/" target="_blank"><img src="https://skillicons.dev/icons?i=godot&theme=dark" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
@@ -44,20 +51,18 @@
 ---
 
 ## 💭 what i'm up to
-
-- learning new Languages
-- creating **web projects** that actually look clean
-- learning **system design** and **problem-solving**
-- experimenting with **AI tools** and workflow optimization
+- learning new languages  
+- creating **web projects** that actually look clean  
+- learning **system design** and **problem‑solving**  
+- experimenting with **AI tools** and workflow optimization  
 
 ---
 
 ## 🎮 when i'm not coding
-
-- vibing to music on [spotify](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)
-- working on [iw8mod](https://Discord.gg/demonware)
-- trying to touch grass occasionally
-- working on a side project
+- vibing to music on [spotify](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)  
+- working on [iw8mod](https://Discord.gg/demonware)  
+- trying to touch grass occasionally  
+- working on a side project  
 
 ---
 
@@ -71,7 +76,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-**discord:** `adzisace`
+**discord:** adzisace  
 
 </div>
 
