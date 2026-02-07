@@ -44,6 +44,7 @@
 ---
 
 ## 💭 what i'm up to
+- working on various projects
 - learning new languages  
 - creating **web projects** that actually look clean  
 - learning **system design** and **problem‑solving**  
