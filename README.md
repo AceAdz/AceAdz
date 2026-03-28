@@ -12,8 +12,8 @@
 
 ## 🧠 About Me
 - CS student  
-- focused on software development, automation, and systems thinking  
-- constantly improving fundamentals and building practical projects  
+- focused on software development  
+- constantly improving my knowledge 
 
 ---
 
@@ -44,11 +44,11 @@
 ---
 
 ## 💭 what i'm up to
-- working on various projects
+- working on various projects (that i never end up finishing and archive them)
 - learning new languages  
 - creating **web projects** that actually look clean  
 - learning **system design** and **problem‑solving**  
-- experimenting with **AI tools** and workflow optimization  
+- experimenting with **AI tools**
 
 ---
 
