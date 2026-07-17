@@ -11,8 +11,8 @@
 ---
 
 ## 🧠 About Me
-- CS student  
-- focused on software development  
+- IT student  
+- focused on building new projects 
 - constantly improving my knowledge 
 
 ---
@@ -54,9 +54,9 @@
 
 ## 🎮 when i'm not coding
 - vibing to music on [spotify](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)  
-- working on [iw8mod](https://Discord.gg/demonware)  
+- testing [iw8mod](https://Discord.gg/demonware)  
 - trying to touch grass occasionally  
-- working on a side project  
+- exploring new food places 
 
 ---
 
