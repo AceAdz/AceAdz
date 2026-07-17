@@ -2,7 +2,7 @@
 
 # 👋 yo, i'm AceAdz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80;Automating+Everything+%E2%9A%A1;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=IT+Student+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80;Automating+Everything+%E2%9A%A1;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
