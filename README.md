@@ -70,7 +70,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-**discord:** adzisace  
+**discord:** aceadz 
 
 </div>
 
