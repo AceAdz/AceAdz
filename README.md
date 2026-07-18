@@ -46,10 +46,7 @@
 ## 💭 what i'm up to
 - working on various projects (that i never end up finishing and archive them)
 - learning new languages  
-- creating **web projects** when i have time   
-- learning **system design** and **problem‑solving**  
-- experimenting with **AI tools**
-- possibly making a Minecraft PVP client 
+- making a Minecraft PVP client 
 
 ---
 
