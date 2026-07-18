@@ -58,6 +58,16 @@
 
 ---
 
+## 📊 most used languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceAdz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+
+</div>
+
+---
+
 ## 🌐 find me online
 
 <div align="center">
