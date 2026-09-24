@@ -45,9 +45,9 @@
 ---
 
 ## 💭 what i'm up to
+- Full-time student
 - working on various projects (that i never end up finishing and archive them)
-- learning new languages  
-- making a Minecraft PVP client 
+- learning new languages   
 
 ---
 
