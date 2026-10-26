@@ -53,7 +53,6 @@
 
 ## 🎮 when i'm not coding
 - vibing to music on [spotify](https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u)  
-- testing [iw8mod](https://Discord.gg/demonware)  
 - trying to touch grass occasionally  
 - exploring new food places 
 
